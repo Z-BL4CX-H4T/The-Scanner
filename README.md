@@ -47,3 +47,10 @@ Some functions rely on external tools like whois, nmap, and openssl.
 # Note:
 
 Ensure that all dependencies such as requests, subprocess, and external tools (e.g., nmap) are installed on the system before running this tool.
+
+# Command:
+```
+git clone https://github.com/Z-BL4CX-H4T/The-Scanner.git
+cd The-Scanner
+python3 The-Scanner.py
+```
